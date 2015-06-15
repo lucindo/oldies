@@ -1,2 +1,2 @@
 # beddb 
-toy object databese from 2008 written for learling Erlang
+toy object database from 2008 written when I was learling Erlang
