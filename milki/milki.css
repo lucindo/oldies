@@ -1,0 +1,21 @@
+html,body {
+            font-family: Arial, Helvetica, Verdana, sans-serif;
+            }
+		
+textarea {
+           font-family: monospace;
+           width:550px;
+           height:450px;
+           }
+
+a { 
+    text-decoration: none; }
+
+.wiki-post { 
+             padding: 0;
+             margin-left: 10px;
+             margin-right: 20px; }
+
+ins {background: #bfb} 
+del{background: #fcc} 
+ins,del {text-decoration: none}
